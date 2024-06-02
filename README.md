@@ -1,3 +1,3 @@
 # Moseeqi
 
-Hi this is sameer
+This is my personlised Music Web Applicaton
